@@ -6,6 +6,7 @@ This works perfectly with Digital Ocean, other VPS's may require additional serv
 This has been tested and works with Debian 8.8 x64 YMMV with other OS's.
 
 Installing:
+
 sudo apt-get install git
 
 git clone https://github.com/itfellover/Quick-VPS-Standard-User-account-and-SSH-key-copying.git
